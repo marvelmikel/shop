@@ -1,0 +1,47 @@
+{
+  "name": "shopus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "6.4.0",
+    "@fortawesome/free-brands-svg-icons": "6.4.0",
+    "@fortawesome/free-regular-svg-icons": "6.4.0",
+    "@fortawesome/free-solid-svg-icons": "6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@reduxjs/toolkit": "1.9.5",
+    "@tawk.to/tawk-messenger-react": "^2.0.2",
+    "aos": "^3.0.0-beta.6",
+    "axios": "1.4.0",
+    "cookies-next": "2.1.2",
+    "laravel-echo": "1.15.2",
+    "next": "^14.2.0-canary.46",
+    "next-pwa": "^5.6.0",
+    "nprogress": "^0.2.0",
+    "pusher-js": "8.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-facebook-pixel": "^1.0.4",
+    "react-range-slider-input": "^3.0.7",
+    "react-redux": "8.1.1",
+    "react-share": "4.4.1",
+    "react-slick": "^0.29.0",
+    "react-toastify": "9.1.3",
+    "redux": "4.2.1",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "3.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.0",
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.2",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6"
+  }
+}
