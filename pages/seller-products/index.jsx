@@ -13,7 +13,7 @@ function sellersProductsPage(data) {
   };
   return (
     <>
-      <PageHead title="Shopus | products" />
+      <PageHead title="TrustEtronicsABC | products" />
       <AllProductPage
         response={data}
         sellerInfo={sellerInfo ? sellerInfo : null}

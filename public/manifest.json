@@ -1,13 +1,13 @@
 {
-  "name": "Shopus",
-  "short_name": "Shopus",
-  "description": "Shopus progressive web app",
+  "name": "TrustEtronicsABC",
+  "short_name": "TrustEtronicsABC",
+  "description": "TrustEtronicsABC progressive web app",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
   "background_color": "#ffffff",
-  "theme_color": "#F3EFE0",
+  "theme_color": "#5B48C2",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
