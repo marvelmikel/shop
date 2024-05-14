@@ -1,12 +1,5 @@
 ## Webtech CW2 assessment submission
 
-Group work of
-
-100692427
-100701299
-100692427
-100705713
-
 ## Getting Started
 
 First, run the development server:
